@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher
 from aiogram.types import ChatJoinRequest, InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8473713905:AAFXqsCRyd9Fpg0PnBvIKm02CaKIu7TEOx0"
+TOKEN = "8576393002:AAGBZZNH3RN7UIrsgeeDOdVHOBcGM5pjLxY"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
