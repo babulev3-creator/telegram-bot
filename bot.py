@@ -28,7 +28,7 @@ async def handle_join_request(request: ChatJoinRequest):
         user_id,
 
         # 🔹 3. СЮДА МОЖНО ВСТАВИТЬ СВОЮ ССЫЛКУ НА КАРТИНКУ
-        photo="https://via.placeholder.com/500x300.png",
+        photo="https://web.telegram.org/a/?account=2#907595992",
 
         # 🔹 4. СЮДА ПИШЕШЬ СВОЙ ТЕКСТ
         caption="Ваша заявка получена ✅\n\n"
