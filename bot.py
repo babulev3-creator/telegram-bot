@@ -28,7 +28,7 @@ async def handle_join_request(request: ChatJoinRequest):
         user_id,
 
         # 🔹 3. СЮДА МОЖНО ВСТАВИТЬ СВОЮ ССЫЛКУ НА КАРТИНКУ
-        photo="https://imgur.com/a/Z7Qgr4k",
+        photo="https://i.ibb.co/ksFMrbSN/5976770502665636842.jpg",
 
         # 🔹 4. СЮДА ПИШЕШЬ СВОЙ ТЕКСТ
         caption="Ваша заявка получена ✅\n\n"
