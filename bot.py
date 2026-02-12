@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import ChatJoinRequest, InlineKeyboardMarkup, InlineKeyboardButton
 
 # 🔹 ВСТАВЬ СВОЙ ТОКЕН
-TOKEN = "ТУТ_ТВОЙ_ТОКЕН"
+TOKEN = "8576393002:AAGBZZNH3RN7UIrsgeeDOdVHOBcGM5pjLxY"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
