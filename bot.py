@@ -17,13 +17,13 @@ async def handle_join_request(request: ChatJoinRequest):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
             InlineKeyboardButton(
-                text="🎁 Подать заявку в Канал 2",
+                text="1# ПОДПИСАТЬСЯ",
                 url="https://t.me/+xrNyRhUwFVlmNmMy"
             )
         ],
         [
             InlineKeyboardButton(
-                text="🔥 Подать заявку в Канал 3",
+                text="2# ПОДПИСАТЬСЯ",
                 url="https://t.me/+8B7ySuUtoM03YTky"
             )
         ]
